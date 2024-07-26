@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Holy Cross Church</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #343a40;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #495057;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            padding: 5px 10px;
+        }
+        nav a:hover {
+            background-color: #adb5bd;
+            border-radius: 5px;
+        }
+        main {
+            padding: 20px;
+        }
+        section {
+            margin-bottom: 40px;
+        }
+        section h2 {
+            border-bottom: 2px solid #343a40;
+            padding-bottom: 10px;
+        }
+        .contact-info {
+            background-color: #e9ecef;
+            padding: 15px;
+            border-radius: 5px;
+            margin-top: 10px;
+        }
+        footer {
+            background-color: #343a40;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Holy Cross Church</h1>
+    </header>
+    <nav>
+        <a href="#latest-updates">Latest Updates</a>
+        <a href="#about">About</a>
+        <a href="#regular-services">Regular Services</a>
+        <a href="#baptism">Baptism/Christenings</a>
+        <a href="#weddings">Weddings & Banns</a>
+        <a href="#funerals">Funerals</a>
+        <a href="#history">History</a>
+    </nav>
+    <main>
+        <section id="latest-updates">
+            <h2>Latest Updates</h2>
+            <p><strong>Easter Sunday 10am</strong> - We warmly invite you to our Easter morning service at 10 am. Come along with the whole family for this joyous service! <em>(18th Mar 2024)</em></p>
+            <p><strong>Good Friday 2pm</strong> - A reflective service at the foot of the cross. You are warmly welcome. <em>(18th Mar 2024)</em></p>
+            <p><strong>Palm Sunday 17th March 9.45am</strong> - Come along with all the family for an inclusive celebration of Palm Sunday. Please stay for refreshments after the service. <em>(18th Mar 2024)</em></p>
+        </section>
+        <section id="about">
+            <h2>About</h2>
+            <p>Here is some information about our worship at the Newcastle Holy Cross in Fenham, including Baptisms, Weddings, and Funerals.</p>
+            <div class="contact-info">
+                <p><strong>Priest In-Charge:</strong> Rev’d Daniel McCarthy</p>
+                <p>Email: <a href="mailto:danielmccarthy7x77@yahoo.com">danielmccarthy7x77@yahoo.com</a></p>
+                <p>Tel: 0191 275 0270</p>
+                <p>Mobile: 07855 941184</p>
+                <p><strong>Churchwarden:</strong> Julie Bowman</p>
+                <p>Mobile: 07547 423615</p>
+                <p><a href="#">Facebook</a></p>
+            </div>
+        </section>
+        <section id="regular-services">
+            <h2>Regular Services</h2>
+            <ul>
+                <li>Sunday 10.00 am Parish Eucharist with Crèche & Sunday School</li>
+                <li>Sunday 6.30 pm Evening Service *</li>
+                <li>Tuesday 10.00 am Morning Prayer</li>
+                <li>Wednesday (Advent / Lent) 10.00 am Eucharist Service (tea and cake afterwards)</li>
+                <li>Thursday 10.00 am Morning Prayer</li>
+                <li>Thursday 7.00 pm Special Church Services</li>
+                <li>Friday 10.00 am Friday Folk</li>
+                <li>Saturday (bi-monthly) 2pm to 4pm Messy Church</li>
+            </ul>
+            <p>* Either Book of Common Prayer Evensong, Taizé Service, Praise in Song, or Service of Healing & Wholeness</p>
+        </section>
+        <section id="baptism">
+            <h2>Baptism/Christenings</h2>
+            <p>If you live in the parish, you are most welcome to have your child baptised/christened at Holy Cross. Baptisms take place either during our 10.00 am Parish Eucharist or at 12 noon any Sunday of the month. For baptism enquiries, please contact Rev’d Daniel McCarthy:</p>
+            <p>Tel: 0191 275 0270 | Mobile: 07855 941184</p>
+        </section>
+        <section id="weddings">
+            <h2>Weddings & Banns</h2>
+            <p>If you would like to be married at Holy Cross, please contact Rev’d Daniel McCarthy:</p>
+            <p>Tel: 0191 275 0270 | Mobile: 07855 951184</p>
+            <p>If you are getting married at another church but need your Banns read at Holy Cross, please contact Rev’d Daniel McCarthy:</p>
+            <p>Tel: 0191 275 0270 | Mobile: 07855 951184</p>
+        </section>
+        <section id="funerals">
+            <h2>Funerals</h2>
+            <p>If your loved one lived in our parish, you are welcome to hold their funeral at Holy Cross or a Crematorium. This is not dependent on whether they attended church. Please ask the Funeral Director to contact Rev’d Daniel McCarthy:</p>
+            <p>Tel: 0191 275 0270 | Mobile: 07855 951184</p>
+        </section>
+        <section id="history">
+            <h2>History</h2>
+            <p>Newcastle Holy Cross is located on Whittington Grove in Fenham in Newcastle upon Tyne. It was consecrated on 14th September 1936 by Dr Harold Ernest, Bishop of Newcastle. Those who attended the consecration service recall that, despite wet weather, more than 650 people turned out for this significant event. The land was given by Mr J.R. Blackett-Ord who was the major landowner in the area. The Blackett-Ord family also paid for the construction of the church. The architect was Henry Hicks who was much inspired by the ‘Modern Movement’ in Europe between the wars. The church building, giving an impression of great simplicity, in fact achieves this effect through creative and highly skilled planning of line and form.</p>
+            <p>In the mid-1930s, Fenham was the focus of great building activity with many council and private houses under construction. The Church of the Holy Cross has served the people of Fenham for almost eighty years.</p>
+            <p>Over the years, there have been a number of additions to the church building. In 1961, Mrs Blackett-Ord died and her husband decided to build a porch on to the west end of the church as a memorial to her. The new St Mary’s Porch was dedicated in December 1965 by Dr Noel Hudson, Bishop of Newcastle. Other additions had been added in 1957. Originally, the interior of the church was all white. But, in that year, L.C. Evetts of the Fine Art Department of Newcastle University designed the present colour scheme, i.e. gold barrel vault roof, red outer walls, and blue behind the altar. Mr Evetts also designed the Processional Cross and the stained-glass window in the Lady Chapel.</p>
+            <p>In 1976, the Parish Hall was opened. This building stands adjacent to the church on the corner of Whittington Grove and Lanercost Drive. It is an excellent facility used daily by various church and community groups. The Parish Hall replaced the Old Church Hall on Grange Road. This earlier building was the original church in the area; it was consecrated as Christ Church in October 1929.</p>
+            <p>On 29th March 1981, a new Organ was dedicated by C.P. Unwin, Archdeacon of Northumberland. This instrument was built by Church & Co. of Stamfordham. The elegant case in cedar was planned to match the decor and the architectural features of the church – particularly the circular west window and barrel vault of the roof. The Organ was designed to comply with the church’s principal need – the accompaniment of the liturgy. A balanced principal
